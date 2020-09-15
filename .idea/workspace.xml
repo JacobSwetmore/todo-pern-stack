@@ -22,7 +22,7 @@
         <option value="Jacob Swetmore &lt;jacobswetmore99@gmail.com&gt;" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -85,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599917488903</updated>
       <workItem from="1599917492125" duration="18514000" />
-      <workItem from="1600173914028" duration="3501000" />
+      <workItem from="1600173914028" duration="3838000" />
     </task>
     <task id="LOCAL-00001" summary="Testing">
       <created>1600168255932</created>
@@ -133,5 +133,9 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="330" y="301" key="git4idea.ui.GitResetDialog/0.0.1280.800@0.0.1280.800" timestamp="1600168322483" />
+    <state x="370" y="289" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1600186396238">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="370" y="289" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1280.800@0.0.1280.800" timestamp="1600186396238" />
   </component>
 </project>
