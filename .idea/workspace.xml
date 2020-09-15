@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="995cfca3-e4c3-4600-9219-f774367feb87" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Jacob Swetmore &lt;jacobswetmore99@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hPf8UgiFqQnzmz4yYvyi3HTdzm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/components" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src/components" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="995cfca3-e4c3-4600-9219-f774367feb87" name="Default Changelist" comment="" />
+      <created>1599917488903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599917488903</updated>
+      <workItem from="1599917492125" duration="15326000" />
+    </task>
+    <task id="LOCAL-00001" summary="Testing">
+      <created>1600168255932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600168255932</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="65" key="#Deployment" timestamp="1600168234443">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="65" key="#Deployment/0.0.1280.800@0.0.1280.800" timestamp="1600168234443" />
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600020172030">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1600020172030" />
+    <state x="196" y="2" key="CommitChangelistDialog2" timestamp="1600168255496">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="196" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1600168255496" />
+    <state x="240" y="128" key="Vcs.Push.Dialog.v2" timestamp="1600168300760">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="128" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1600168300760" />
+    <state x="100" y="100" width="1080" height="600" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1600170115646">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state x="100" y="100" width="1080" height="600" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1280.731@0.23.1280.731" timestamp="1600170115646" />
+    <state x="330" y="301" key="git4idea.ui.GitResetDialog" timestamp="1600168322483">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="330" y="301" key="git4idea.ui.GitResetDialog/0.0.1280.800@0.0.1280.800" timestamp="1600168322483" />
+  </component>
+</project>
