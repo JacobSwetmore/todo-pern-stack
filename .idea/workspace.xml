@@ -9,7 +9,6 @@
       <change beforePath="$PROJECT_DIR$/client/src/components/EditTodo.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/EditTodo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/InputTodo.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/InputTodo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/ListTodos.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/ListTodos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database.sql" beforeDir="false" afterPath="$PROJECT_DIR$/database.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599917488903</updated>
       <workItem from="1599917492125" duration="18514000" />
-      <workItem from="1600173914028" duration="1713000" />
+      <workItem from="1600173914028" duration="2411000" />
     </task>
     <task id="LOCAL-00001" summary="Testing">
       <created>1600168255932</created>
