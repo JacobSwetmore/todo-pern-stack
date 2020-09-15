@@ -28,7 +28,7 @@
         <option value="Jacob Swetmore &lt;jacobswetmore99@gmail.com&gt;" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -91,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599917488903</updated>
       <workItem from="1599917492125" duration="18514000" />
-      <workItem from="1600173914028" duration="2411000" />
+      <workItem from="1600173914028" duration="2934000" />
     </task>
     <task id="LOCAL-00001" summary="Testing">
       <created>1600168255932</created>
@@ -131,10 +131,10 @@
       <screen x="0" y="23" width="1280" height="731" />
     </state>
     <state x="100" y="100" width="1080" height="600" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1280.731@0.23.1280.731" timestamp="1600170115646" />
-    <state x="298" y="157" width="683" height="486" key="find.popup" timestamp="1600174082013">
+    <state x="298" y="157" width="683" height="486" key="find.popup" timestamp="1600178595529">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="298" y="157" width="683" height="486" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1600174082013" />
+    <state x="298" y="157" width="683" height="486" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1600178595529" />
     <state x="330" y="301" key="git4idea.ui.GitResetDialog" timestamp="1600168322483">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
